@@ -6,8 +6,3 @@ export const config  = () =>({
     db_password : process.env.DB_PASSWORD
 })
 
-// PORT = "3000"
-// DB_HOST =  'localhost'
-// DB_USER = 'root'
-// DATABASE = "mybase"
-// DB_PASSWORD = "Dekar123."
